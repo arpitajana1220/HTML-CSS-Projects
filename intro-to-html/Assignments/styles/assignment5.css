@@ -1,0 +1,198 @@
+  .page{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    height: 705px;
+    column-gap: 20px;
+    align-items: center;
+    margin-left: 70px;
+    margin-right: 70px;
+   }
+.explanation{
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.assignment{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: larger;
+}
+
+.body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.sec1{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: solid;
+    border-width: 0.5px;
+    padding: 20px;
+}
+
+p {
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+  }
+  .a1 {
+    font-family: Tahoma;
+    font-size: larger;
+    font-weight: bolder;
+  }
+  .a2 {
+    font-family: Arial;
+    font-size: larger;
+    font-weight: bolder;
+  }
+  .a3 {
+    font-family: Arial;
+    color: red;
+    font-style: italic;
+  }
+  .a4 {
+    font-family: Verdana;
+    font-size: large;
+    font-weight: bolder;
+  }
+  .a5 {
+    font-family: Verdana;
+    line-height: 20px;
+    font-size: 16px;
+    color: gray;
+  }
+  .a6 {
+    font-family: Verdana;
+    width: 270px;
+    margin-top: 14px;
+    font-size: 15px;
+  }
+  .button {
+    background-color: rgb(40, 138, 40);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-family: Verdana;
+    margin-top: 13px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+  .a7 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    margin-left: 180px;
+  }
+  .a8 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    margin-left: 230px;
+  }
+  .a9 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(94, 166, 255);
+    font-size: 11px;
+    margin-top: 10px;
+    margin-left: 270px;
+  }
+
+  .tweet-header {
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+
+  .tweet-author {
+    font-weight: bold;
+    font-size: 18px;
+  }
+
+  .tweet-info {
+    color: rgb(100, 100, 100);
+    font-size: 18px;
+  }
+
+  .tweet {
+    width: 600px;
+    line-height: 25px;
+    margin-bottom: 20px;
+    font-size: 18px;
+  }
+
+  .twitter-handle {
+    color: rgb(29, 155, 240);
+    font-size: 18px;
+  }
+
+  .new {
+    color: rgb(245, 99, 0);
+    margin-bottom: 10px;
+    text-align: center;
+  }
+
+  .product {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-align: center;
+  }
+
+  .title {
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+
+  .price {
+    margin-bottom: 25px;
+    text-align: center;
+  }
+
+  .buy {
+    background-color: rgb(0, 113, 227);
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 270px;
+  }
+
+  .price2 {
+    font-size: 32px;
+    margin-bottom: 5px;
+  }
+
+  .currency {
+    font-size: 16px;
+    color: rgb(100, 100, 100);
+  }
+
+  .change {
+    color: rgb(24, 128, 56);
+    margin-bottom: 8px;
+  }
+
+  .after-hours {
+    color: rgb(100, 100, 100);
+  }
+
+  .after-hours-change {
+    color: rgb(235, 39, 39);}

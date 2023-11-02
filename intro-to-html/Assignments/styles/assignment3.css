@@ -1,0 +1,141 @@
+.page{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    height: 705px;
+    column-gap: 20px;
+    align-items: center;
+    margin-left: 70px;
+    margin-right: 70px;
+  }
+  .explanation{
+    margin-left: 20px;
+    margin-right: 20px;
+  
+  }
+  .assignment{
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+  
+  .h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: larger;
+  }
+  
+  .body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+  }
+
+  .uber {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: none;
+    height: 36px;
+    width: 105;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-left: 8px;
+    transition: opacity 0.5;
+  }
+
+  .uber:hover{
+    cursor: pointer;
+    opacity: 0.8;
+
+  }
+
+  .Github {
+    background-color: rgb(46, 164, 79);
+    color: rgb(255, 255, 255);
+    border: none;
+    height: 36px;
+    width: 90;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 8px;
+    font-weight: bold;
+  }
+
+  .Github:hover{
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.15);
+  }
+
+  .Bootstrap {
+    background-color: rgb(121, 82, 179);
+    color: rgb(255, 255, 255);
+    border: none;
+    height: 36px;
+    width: 110;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 8px;
+    font-weight: bold;
+    transition: opacity 0.5;
+  }
+
+  .Bootstrap:hover{
+    background-color: rgb(100, 71, 143);
+  }
+
+  .boot-download {
+    background-color: rgb(255, 255, 255);
+    color: rgb(147, 145, 145);
+    border-color: rgb(147, 145, 145);
+    border-style: solid;
+    border-width: 1;
+    height: 36px;
+    width: 110;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 8px;
+    font-weight: bold;
+  }
+
+  .boot-download:hover{
+    background-color:rgb(147, 145, 145); 
+    color: rgb(255, 255, 255);
+  }
+
+  .Linkedin {
+    background-color: rgb(10, 102, 194);
+    color: rgb(255, 255, 255);
+    border: none;
+    height: 32px;
+    width: 200;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 13px;
+    cursor: pointer;
+  }
+
+  .Linkedin:hover{
+    background-color: rgb(9, 84, 158);
+  }
+
+  .link-save {
+    background-color: rgb(255, 255, 255);
+    color: rgb(10, 102, 194);
+    border-color: rgb(10, 102, 194);
+    border-style: solid;
+    border-width: 1px;
+    height: 32px;
+    width: 60px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 13px;
+    cursor: pointer;
+  }
+
+  .link-save:hover{
+    background-color:rgb(226, 241, 255) ;
+    border-width: 2px;
+  }
+  .sec1{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    border: solid;
+    border-width: 0.5px;
+    padding: 20px;
+  }
